@@ -1,0 +1,11 @@
+body{
+   font-family:  'PT Serif', serif;
+}
+.section-images{
+   width: 20px ;
+   height: 20px;
+}
+.article-image{
+   width: 200px ;
+   height: auto;
+}
